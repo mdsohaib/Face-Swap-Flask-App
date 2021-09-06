@@ -1,6 +1,7 @@
-dlib==19.21.1
-numpy==1.19.3
+cmake
+dlib
+numpy
 opencv-python-headless
-Flask==1.1.1
-Pillow==8.0.1
+Flask
+Pillow
 gunicorn
